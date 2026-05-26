@@ -1,8 +1,10 @@
+// Paste in terminal to run code -> cd src; javac demo\*.java; java demo.Main
 package demo;
 
 import javax.swing.*;
 
 public class Main {
+
 
 	public static void main(String[] args) {
 		// start render class 
