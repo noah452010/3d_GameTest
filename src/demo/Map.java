@@ -11,7 +11,11 @@ public class Map {
 	// this is just an example, can be changed.
 	// this is scalable, so we can have map1, map2, etc...
 	
+	// raycasting can still have 3D like objects,
+	// by adjusting how high each wall renders, and rendering a floor as high as wall height,
+	// it makes a slab-like object, that can be used for stairs.
 
+	// player can also have height (kinda), thats described in README.md
 	
 	public static String[] map1 = {
 			"#############",
