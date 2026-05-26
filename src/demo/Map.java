@@ -2,7 +2,6 @@ package demo;
 
 public class Map {
 	
-
 	// char can stack in as many N dimensions as you provide it, 
 	// with N being how many [] is added. since raycasting is 2D logically,
 	// [], for String[] allows for stacking in 1D

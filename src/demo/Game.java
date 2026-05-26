@@ -5,7 +5,7 @@ public class Game {
 	public static void game() {
 		// this is where all the player, and game objects are,
 		// instantiated.
-		Player dog = new Player(1.0f, 1.0f, 180f);
+		Player cat = new Player(2.0, 2.0, 0.0, 0.0, 0.0);
 		
 		
 		
