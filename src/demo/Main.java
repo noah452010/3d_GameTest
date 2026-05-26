@@ -15,8 +15,6 @@ public class Main {
 		// start map class
 		Map map = new Map();
 		
-		
-		
 		// start game class
 		Game game = new Game();
 		

@@ -11,6 +11,7 @@ public class Player {
 	private double z;
 	
 	// x rotation and y rotation are generally called pitch and yaw, pitch is looking up and down, yaw is looking left and right.
+	// At 0 degrees yaw, the player is looking down the positive x axis. At 90 degrees yaw, the player is looking down the positive y axis. At 180 degrees yaw, the player is looking down the negative x axis. At 270 degrees yaw, the player is looking down the negative y axis. Pitch is 0 when looking straight ahead, positive when looking up, and negative when looking down.
 
 	private double pitch;
 
