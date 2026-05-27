@@ -10,8 +10,8 @@ public class Main {
 		// start render class 
 		
 		
-		Render render = new Render();
-		Render.r_init();
+		Window window = new Window();
+		Window.r_init();
 
 		
 		// start map class
