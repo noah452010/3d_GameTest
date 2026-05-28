@@ -1,5 +1,3 @@
-package demo;
-
 public class Player {
 	// raycasting does not need a 3rd vector for position,
 	// Z vector used here is rotation of player.

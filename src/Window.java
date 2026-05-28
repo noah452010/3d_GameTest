@@ -1,5 +1,3 @@
-package demo;
-
 import org.lwjgl.opengl.GL11.*;
 import org.lwjgl.glfw.*;
 

@@ -1,6 +1,3 @@
-// Paste in terminal to run code -> cd src; javac demo\*.java; java demo.Main
-package demo;
-
 import javax.swing.*;
 
 public class Main {
@@ -10,8 +7,8 @@ public class Main {
 		// start render class 
 		
 		
-		Window window = new Window();
-		Window.r_init();
+		//Window window = new Window();
+		//Window.r_init();
 
 		
 		// start map class

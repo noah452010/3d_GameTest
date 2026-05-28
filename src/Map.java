@@ -1,5 +1,3 @@
-package demo;
-
 public class Map {
 	
 	// char can stack in as many N dimensions as you provide it, 

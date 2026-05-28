@@ -1,9 +1,4 @@
-package demo;
-
-public class Rect {
-    private double x;
-    private double y;
-    private double z;
+public class Rect extends GameObject {
     private double width;
     private double height;
     private double depth;
